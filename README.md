@@ -1,3 +1,21 @@
+# Exercise Tracker Webapp
+
+This webapp was designed to perform CRUD Operations related to Tracking exercises performed by the user.
+This is based on MERN Stack (MongoDb, Express, ReactJs and NodeJs).
+The user manually enters data to - 
+
+1) create user
+2) read exercise data
+3) update changes
+4) delete records if necessary
+
+# Screenshots
+
+1) Successful Creation of Routes, as seen from Postman
+<img src=https://github.com/shreyb99/exercise-webapp/blob/main/screenshots/postman%20.png width=600>
+2) Simulatneous Updation in MongoDb Database Cluster
+<img src=https://github.com/shreyb99/exercise-webapp/blob/main/screenshots/database1.png width=750 height=400>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
